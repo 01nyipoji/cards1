@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: monospace;
+    font-size: 25px;
+    padding: 90px;
+    box-sizing: border-box;
+    border-radius: 10%;
+}
+
+h2{
+    padding-left: 8px;
+}
+
+div{
+    display: flex;
+    width: 20%;
+    height: 378px;
+    justify-content: space-between;
+}
+
+
+section{
+    display: flex;
+}
+
